@@ -1,0 +1,72 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DemiLib.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween43.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween46.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween50.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\DOTweenPro.dll into Unity Child Domain
+- Completed reload, in  0.196 seconds
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Projects\2D_deneme\Builds\CannonBall2_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on CameraController
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.654602 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.559494 ms
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 570.
+Total: 0.334416 ms (FindLiveObjects: 0.019922 ms CreateObjectMapping: 0.021345 ms MarkObjects: 0.259848 ms  DeleteObjects: 0.033299 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.721603 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 592.
+Total: 1.385479 ms (FindLiveObjects: 0.067452 ms CreateObjectMapping: 0.060337 ms MarkObjects: 0.975072 ms  DeleteObjects: 0.281478 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.632236 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 589.
+Total: 1.306927 ms (FindLiveObjects: 0.068306 ms CreateObjectMapping: 0.058914 ms MarkObjects: 0.958849 ms  DeleteObjects: 0.219434 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.315347 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 0.492374 ms (FindLiveObjects: 0.040699 ms CreateObjectMapping: 0.019922 ms MarkObjects: 0.366008 ms  DeleteObjects: 0.065175 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2f20 -> priority: 1 
+  Thread -> id: 358c -> priority: 1 
